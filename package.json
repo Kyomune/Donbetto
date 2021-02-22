@@ -1,0 +1,14 @@
+{
+  "name": "donbettopizza",
+  "version": "1.0.0",
+  "description": "pizzas",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run dev"
+  },
+  "keywords": [
+    "pizzas"
+  ],
+  "author": "breyner",
+  "license": "ISC"
+}
