@@ -1,3 +1,8 @@
+const buttom = document.querySelector('.menu-btn');
+buttom.addEventListener('click', () => {
+    document.querySelector('.nav-main-center').classList.toggle('show');
+})
+
 ScrollReveal().reveal('.header');
 ScrollReveal().reveal('.how-to-order', { delay: 500 } );
 ScrollReveal().reveal('.background2', { delay: 500 } );
